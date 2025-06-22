@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\Felicia\\OneDrive\\Documents\\UTeM\\Y2 SEM 2\\EVENT DRIVEN PROGRAMMING\\cafesystem\\",
   "Documents": [
     {
@@ -9,6 +10,13 @@
     {
       "AbsoluteMoniker": "D:0:0:{9DE57244-7C2F-4CA6-AAD2-E3EB334E338C}|cafesystem\\cafesystem.csproj|c:\\users\\felicia\\onedrive\\documents\\utem\\y2 sem 2\\event driven programming\\cafesystem\\cafesystem\\meowcafe.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
       "RelativeMoniker": "D:0:0:{9DE57244-7C2F-4CA6-AAD2-E3EB334E338C}|cafesystem\\cafesystem.csproj|solutionrelative:cafesystem\\meowcafe.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+=======
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\cafesystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE57244-7C2F-4CA6-AAD2-E3EB334E338C}|cafesystem\\cafesystem.csproj|c:\\users\\user\\documents\\github\\cafesystem\\cafesystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DE57244-7C2F-4CA6-AAD2-E3EB334E338C}|cafesystem\\cafesystem.csproj|solutionrelative:cafesystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+>>>>>>> 510e45ee26e04af342b4905778f5e3b90ec98944
     }
   ],
   "DocumentGroupContainers": [
@@ -18,6 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 3,
           "Children": [
             {
@@ -39,17 +48,33 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
               "WhenOpened": "2025-06-22T15:03:09.267Z",
               "EditorCaption": ""
+=======
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+>>>>>>> 510e45ee26e04af342b4905778f5e3b90ec98944
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
+<<<<<<< HEAD
               "DocumentMoniker": "C:\\Users\\Felicia\\OneDrive\\Documents\\UTeM\\Y2 SEM 2\\EVENT DRIVEN PROGRAMMING\\cafesystem\\cafesystem\\Form1.cs",
               "RelativeDocumentMoniker": "cafesystem\\Form1.cs",
               "ToolTip": "C:\\Users\\Felicia\\OneDrive\\Documents\\UTeM\\Y2 SEM 2\\EVENT DRIVEN PROGRAMMING\\cafesystem\\cafesystem\\Form1.cs [Design]",
               "RelativeToolTip": "cafesystem\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-21T10:25:19.717Z",
+=======
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\cafesystem\\cafesystem\\Form1.cs",
+              "RelativeDocumentMoniker": "cafesystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\cafesystem\\cafesystem\\Form1.cs [Design]",
+              "RelativeToolTip": "cafesystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:25:42.75Z",
+>>>>>>> 510e45ee26e04af342b4905778f5e3b90ec98944
               "EditorCaption": " [Design]"
             }
           ]
