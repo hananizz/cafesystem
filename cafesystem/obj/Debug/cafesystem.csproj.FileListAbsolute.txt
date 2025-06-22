@@ -1,0 +1,10 @@
+C:\Users\End User\Documents\GitHub\cafesystem\cafesystem\bin\Debug\cafesystem.exe.config
+C:\Users\End User\Documents\GitHub\cafesystem\cafesystem\bin\Debug\cafesystem.exe
+C:\Users\End User\Documents\GitHub\cafesystem\cafesystem\bin\Debug\cafesystem.pdb
+C:\Users\End User\Documents\GitHub\cafesystem\cafesystem\obj\Debug\cafesystem.csproj.AssemblyReference.cache
+C:\Users\End User\Documents\GitHub\cafesystem\cafesystem\obj\Debug\cafesystem.Form1.resources
+C:\Users\End User\Documents\GitHub\cafesystem\cafesystem\obj\Debug\cafesystem.Properties.Resources.resources
+C:\Users\End User\Documents\GitHub\cafesystem\cafesystem\obj\Debug\cafesystem.csproj.GenerateResource.cache
+C:\Users\End User\Documents\GitHub\cafesystem\cafesystem\obj\Debug\cafesystem.csproj.CoreCompileInputs.cache
+C:\Users\End User\Documents\GitHub\cafesystem\cafesystem\obj\Debug\cafesystem.exe
+C:\Users\End User\Documents\GitHub\cafesystem\cafesystem\obj\Debug\cafesystem.pdb
