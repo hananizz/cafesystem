@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35913.81 d17.13
+VisualStudioVersion = 17.13.35931.197 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cafesystem", "cafesystem\cafesystem.csproj", "{9DE57244-7C2F-4CA6-AAD2-E3EB334E338C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cafesystem", "cafesystem\cafesystem.csproj", "{2DD54D3B-62C0-4A3C-AD20-04A25AE28323}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9DE57244-7C2F-4CA6-AAD2-E3EB334E338C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9DE57244-7C2F-4CA6-AAD2-E3EB334E338C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9DE57244-7C2F-4CA6-AAD2-E3EB334E338C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9DE57244-7C2F-4CA6-AAD2-E3EB334E338C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DD54D3B-62C0-4A3C-AD20-04A25AE28323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DD54D3B-62C0-4A3C-AD20-04A25AE28323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DD54D3B-62C0-4A3C-AD20-04A25AE28323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DD54D3B-62C0-4A3C-AD20-04A25AE28323}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {BFBB18B5-D135-49C8-8A7C-3DC87AA120FC}
+		SolutionGuid = {6EAF2355-8D28-46AF-B281-2B9B74C515AE}
 	EndGlobalSection
 EndGlobal
